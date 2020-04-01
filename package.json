@@ -1,0 +1,23 @@
+{
+  "name": "hugo",
+  "version": "0.0.1",
+  "description": "A static site generator written in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gohugoio/hugo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gohugoio/hugo/issues"
+  },
+  "homepage": "https://github.com/gohugoio/hugo#readme"
+}
